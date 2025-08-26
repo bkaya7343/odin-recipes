@@ -3,17 +3,9 @@
     <head>
         <meta charset="UTF-8">
         <title>Chef John's Drunken Noodles</title>
-<<<<<<< HEAD
     </head>
     <body>
         <h1>Chef John's Drunken Noodles</h1>
-=======
-        <link rel="stylesheet" href="style-recipes.css">
-    </head>
-    <body>
-        <div id="total-file">
-            <h1>Chef John's Drunken Noodles</h1>
->>>>>>> e4dfeed (Finalise Code)
         <img src="images/noodles.webp" alt="Chef John's Drunken Noodles">
         <h2>Recipe</h2>
         <p>I did have a drink or three while making these drunken noodles, so I could enjoy them as the food gods intended, which is slightly drunk. At least that's the main theory on how this "pad kee mao" dish got its name. It is one of the easiest, and most delicious noodle recipe I know. Serve garnished with Thai basil.</p>
@@ -49,11 +41,6 @@
             <li>Stir in Thai basil leaves until wilted. Taste and adjust seasoning if needed. Serve.</li>
         </ol>
         <a href="../index.html">Home</a>
-<<<<<<< HEAD
-=======
-        </div>
-        
->>>>>>> e4dfeed (Finalise Code)
     </body>
 
 </html>
